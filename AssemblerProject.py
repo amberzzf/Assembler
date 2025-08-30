@@ -6,7 +6,7 @@
 memory = [0,1,2,3,4,5] #tester values
 accumulator = 0
 instructions = [ "MOVE", 'ADD', "SUB", "AND", "LOAD", "STORE", "ADDM", "SUBM", "JUMP", "JUMPZ", "JUMPNZ"]
-code_file = open("/Users/amberfaruque/Documents/Personal projects/code.txt", 'r') 
+code_file = open("/Users/amberfaruque/Documents/Personal projects/code.txt", 'r') #replace with your filepath
 
 lines = code_file.readlines()
 
