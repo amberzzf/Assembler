@@ -1,5 +1,4 @@
-Assembler
-This is my first version of a super basic assembler that I made due to my combines interest in my first years systems1 and theory2 module which delved into assembly language and the language acceptance procedure 
+This is my super basic assembler that I made due to my combines interest in my first years systems1 and theory2 module which delved into assembly language and the language acceptance procedure 
 
 Although this may seem like a tedious and unnecessary project, I took interest in the stages of compilation and would consider making a high level translator for a new language in the future (despite its uselessness) 
 
