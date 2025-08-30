@@ -1,5 +1,5 @@
 ADD 1
-AND 1 #smell
+AND 1 #comment
 JUMP 4
 SUB 1
 ADD 1
